@@ -1,0 +1,5 @@
+co,cokolwiek,coś,cośkolwiek,cóż,czyj,czyjkolwiek,czyjś,dlaczego,dlaczegoż,dlań,dokąd,dokądkolwiek,dokądś,dokądże,doń,donikąd,dotąd,gdy,gdzie,gdziekolwiek,
+gdzieniegdzie,gdzieś,gdzież,ich,inaczej,inny,ja,jak,jakby,jaki,jakikolwiek,jakiś,jakiśkolwiek,jakiż,jakkolwiek,jako,jakoś,jakże,jakżeby,jeden,jego,jej,każdy,
+kędy,kędyś,ki,kiedy,kiedykolwiek,kiedyś,kiedyż,kto,ktokolwiek,którędy,którędykolwiek,którędyż,który,którykolwiek,któryś,któryż,ktoś,ktośkolwiek,któż,mój,my,
+nań,nasz,nic,niczyj,niejaki,niejeden,niektóry,niektórzy,nigdy,nigdzie,nikt,odeń,odkąd,on,oń,ona,one,oni,ono,ów,owaki,owdzie,ówdzie,pokąd,pokądże,poń,potem,
+przedtem,przenigdy,przezeń,sam,se,siaki
